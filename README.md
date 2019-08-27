@@ -1,6 +1,6 @@
 # Chat-Node-Reactjs
 
-Config atual Docker para o Postgres:
+Config atual Docker para o Postgres no arquivo src/config/database.js:
 host: '192.168.99.100',
 port: '5433',
 username: 'postgres',
